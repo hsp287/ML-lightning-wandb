@@ -1,3 +1,4 @@
+## Description
 This is a basic ML project. We train a simple CNN model on the MNIST dataset. Here are the objectives:
 
 1) Save and load data as HDF5 file.
@@ -18,3 +19,6 @@ https://colab.research.google.com/github/wandb/examples/blob/master/colabs/pytor
 https://lightning.ai/docs/pytorch/stable/api/lightning.pytorch.callbacks.EarlyStopping.html#lightning.pytorch.callbacks.EarlyStopping
 
 https://lightning.ai/docs/pytorch/stable/extensions/callbacks.html
+
+# Wandb Graphs:
+<img src="wandb_graphs.PNG" width="100%">
