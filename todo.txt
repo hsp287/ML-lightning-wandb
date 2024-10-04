@@ -1,0 +1,15 @@
+
+
+1) Make logs in wandb show up on same plot
+https://colab.research.google.com/github/wandb/examples/blob/master/colabs/pytorch-lightning/Optimize_Pytorch_Lightning_models_with_Weights_%26_Biases.ipynb#scrollTo=xSRvBS39lEig
+
+2) Add additional callbacks (early stopping, etc.)
+https://lightning.ai/docs/pytorch/stable/api/lightning.pytorch.callbacks.EarlyStopping.html#lightning.pytorch.callbacks.EarlyStopping
+https://lightning.ai/docs/pytorch/stable/extensions/callbacks.html
+
+3) Create script with argument parsing (CLI) https://lightning.ai/docs/pytorch/stable/common/hyperparameters.html
+
+4) Save checkpoints with callbacks
+https://lightning.ai/docs/pytorch/stable/common/checkpointing_intermediate.html
+
+5) package all into an API class 
