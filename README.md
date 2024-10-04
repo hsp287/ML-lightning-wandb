@@ -8,7 +8,12 @@ This is a basic ML project. We train a simple CNN model on the MNIST dataset. He
 4) Create an API class that wraps the full pipeline.
     - Create default parser of arguments
 
-Here are the resources used:
+
+Here are some of the resources used:
+https://github.com/fgnt/mnist
+
 https://colab.research.google.com/github/wandb/examples/blob/master/colabs/pytorch-lightning/Optimize_Pytorch_Lightning_models_with_Weights_%26_Biases.ipynb#scrollTo=xSRvBS39lEig
+
 https://lightning.ai/docs/pytorch/stable/api/lightning.pytorch.callbacks.EarlyStopping.html#lightning.pytorch.callbacks.EarlyStopping
+
 https://lightning.ai/docs/pytorch/stable/extensions/callbacks.html
